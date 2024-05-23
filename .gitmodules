@@ -1,0 +1,12 @@
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/CarlosIbCu/PineScript_V5.git
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/pAulseperformance/awesome-pinescript.git
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/2LV/Tradingview-Indicators.git
+[submodule "repo4"]
+	path = repo4
+	url = https://github.com/pinecoders/pine-utils.git
